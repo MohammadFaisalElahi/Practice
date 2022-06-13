@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-04T05:59:10Z" name="Default suite" finished-at="2022-06-04T05:59:29Z" duration-ms="19610">
+    <groups>
+    </groups>
+    <test started-at="2022-06-04T05:59:10Z" name="Default test" finished-at="2022-06-04T05:59:29Z" duration-ms="19610">
+      <class name="com.bank.faisal.App">
+        <test-method signature="test()[pri:0, instance:com.bank.faisal.App@63376bed]" started-at="2022-06-04T11:29:10Z" name="test" finished-at="2022-06-04T11:29:16Z" duration-ms="6655" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="testAirAsia()[pri:0, instance:com.bank.faisal.App@63376bed]" started-at="2022-06-04T11:29:16Z" name="testAirAsia" finished-at="2022-06-04T11:29:29Z" duration-ms="12941" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAirAsia -->
+      </class> <!-- com.bank.faisal.App -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
